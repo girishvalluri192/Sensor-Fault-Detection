@@ -1,0 +1,12 @@
+Numpy
+Pandas
+Seaborn
+matplotlib
+dnspython
+confluent-kafka
+requests
+six
+jsonschema==3.2.0
+pymongo[srv]==4.1.1
+
+-e .

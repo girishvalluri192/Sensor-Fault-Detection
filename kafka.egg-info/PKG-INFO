@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: kafka
+Version: 0.0.3
+Summary: This is a sample project for kafka producer and consumer
+Author: Avnish Yadav
+Requires-Dist: Numpy
+Requires-Dist: Pandas
+Requires-Dist: Seaborn
+Requires-Dist: matplotlib
+Requires-Dist: dnspython
+Requires-Dist: confluent-kafka
+Requires-Dist: requests
+Requires-Dist: six
+Requires-Dist: jsonschema==3.2.0
+Requires-Dist: pymongo[srv]==4.1.1
