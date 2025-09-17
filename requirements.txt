@@ -1,0 +1,8 @@
+Pands
+Seaborn
+Matplotlib
+dnspython
+pymongo==4.2.0
+Numpy
+
+-e .
